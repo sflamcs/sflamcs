@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sflamcs
-- 👀 I’m interested in drawing, reading comics, watching anime
+- 👀 I’m interested in coding, designing, cooking, drawing, reading comics, watching anime
 - 🌱 I’m currently learning jQuery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
